@@ -1,33 +1,35 @@
 ## Data Science (LLO8200 - 61)
 
+### Introductory and Organizational Materials
+
 **Updating this for Spring 2022 - this sentence will be removed once updating is complete.**
 This is the course website for Professor Garcia's sections of LLO 8200, Introduction to Data Science. Make sure you bookmark and check this page frequently for the most up-to-date files to use for both async and assignments. Over the course of the term code/files may be modified or corrected. I will upload updated files here when that happens. You should have R, RStudio, and the tidyverse package installed and updated prior to the first day of class. Instructions for installing/updating R and Rstudio can be found [here](./Downloading Installing Updating R and RStudio.pdf).
 
 ***All files should be accessed from THIS page (not the LMS) to ensure you have the most up to date information.*** 
 
 You are responsible for reviewing and ensuring you are following the schedule and abiding by the policies outlined in the syllabus. The most up-to-date schedule and syllabus can always be found here and I will update the date when changes are made:  
-
+<div align="center">
+ 
 [Schedule - Updated XX-XX-2022](./)  
-[Syllabus - Updated XX-XX-2022](./). 
+[Syllabus - Updated XX-XX-2022](./). </div>
 
 If you want to set up email alerts for updates/additions to this site, you can use the free version of a third-party program: [Distill](https://distill.io/). The free version will check for updates every six hours and send you alerts. Note: this is a platform that is not owned by Vanderbilt or me and you should review their data privacy and security to ensure you are comfortable with their practices.
 
-
-#### R and R-studio Help
-
-Installing R and R-Studio [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Installing%20R%20and%20RStudio.pdf)
-
-Updating R and R-studio [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Updating%20R%20and%20RStudio.pdf)
-
-Intro to R (Refresher Course by Professor Hartigan) [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/IntroToR-Hartigan-08302021.pdf)
-
-
-#### Code for Each Topic Listed in Next Section
+#### Code for Each Topic Listed in The Following Sections
 
 *Note: When new async videos are available, they will be linked under the appropriate week.*
 
-
 ***To access lecture notes and/or data sets use ctrl+click on a mac or right click on a pc, then click "save link as" and save to the class directory on your computer.***
+
+
+### 0. R and R-studio Bootcamp Materials
+
+These materials are identical to those used my Professor Hartigan during the *R Bootcamp* that took place on 01-06-2022
+
+Lecture Notes: [.Rmd File](./00_Getting Started.Rmd), [Knitted HTML](./00_Getting-Started.html)
+
+R Setup Slide Deck [PowerPoint](./Intro to R_final.pptx) - Includes good information on R/Rstudio structure and some troubleshooting tips.
+
 
 ### 1\. Welcome to Data Science: Tools of the Trade
 
@@ -66,7 +68,7 @@ In Class Work: Updated 10-20-21 [.Rmd File](https://github.com/rafael-a-garcia/L
 
 
 
-
+#############################################################################
 
 
 
