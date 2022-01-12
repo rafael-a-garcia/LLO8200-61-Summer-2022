@@ -47,32 +47,32 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 #### Week 3 - Module 7\. Getting Data: Web Sources
 
- Lecture Notes: [.Rmd File](./07_webscraping_updated.Rmd) 
+ * Lecture Notes: [.Rmd File](./07_webscraping_updated.Rmd) 
 
- Lectures
+ * Lectures
   * Lecture 7.1-7.3 - On LMS
   * Lecture 7.4 - [Video](https://www.youtube.com/watch?v=NHbs55PTb-g)
   * Lecture 7.5 - On LMS
 
 #### Week 4 - Module 2\. Analyzing Data: Conditional Means
 
- Lecture Notes: [.Rmd File](./02_Conditional Means_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./02_Conditional Means_inclass.Rmd) 
 
- Lectures
+ * Lectures
   * See LMS
 
 #### Week 5 - Module 3\. Presenting Data: Descriptive Plots
 
- Lecture Notes: [.Rmd File](./03_DescriptivePlots_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./03_DescriptivePlots_inclass.Rmd) 
 
- Lectures
+ * Lectures
    * Please watch async on LMS for this week. 
 
 #### Week 6 - Module 5\. Analyzing Data: Linear Regression
 
- Lecture Notes: [Part 1 - .Rmd File](./05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](./05_regression_part2.Rmd) 
+ * Lecture Notes: [Part 1 - .Rmd File](./05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](./05_regression_part2.Rmd) 
 
- Lectures
+ * Lectures
    * Lecture 5.1       - On LMS 
    * Lecture 5.2       - [Video](https://youtu.be/8P5CLj5Vy70)
    * Lecture 5.3 & 5.4 - [Video](https://youtu.be/6s5__DICHDg)
@@ -82,16 +82,16 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 #### Week 7 - Module 6\. Presenting Data: Scatterplots
 
- Lecture Notes: [.Rmd File](./06_scatterplots_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./06_scatterplots_inclass.Rmd) 
 
- Lectures
+ * Lectures
    * Please watch async on LMS for this week. 
 
 #### Week 8 - Module 8\. Analyzing Data: Classification Part 1
 
- Lecture Notes: [.Rmd File](./08_classification_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./08_classification_inclass.Rmd) 
 
- Lectures
+ * Lectures
    * Lecture 8.1       - On LMS 
    * Lecture 8.2       - [Video](https://youtu.be/IIEvyvsVO7Q)
    * Lecture 8.4       - On LMS 
@@ -99,23 +99,23 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 #### Week 9 - Module 8\. Analyzing Data: Classification Part 2
 
- Lecture Notes: Same as previous week starting on line 259
+ * Lecture Notes: Same as previous week starting on line 259
 
- Lectures
+ * Lectures
   * Lecture 8.6 - [Video](https://youtu.be/IhCJOZJv_O8)
 
 #### Week 10 - Module 9\. Presenting Data: Plots and Tables for Classification
 
- Lecture Notes: [.Rmd File](./09_plots_classification_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./09_plots_classification_inclass.Rmd) 
 
- Lectures
+ * Lectures
    * Please watch async on LMS for this week. 
  
 #### Week 11 - Module 10\. Cross Validation
 
- Lecture Notes: [.Rmd File](./10m_cross_validation_updated.Rmd) 
+ * Lecture Notes: [.Rmd File](./10m_cross_validation_updated.Rmd) 
 
- Lectures
+ * Lectures
    * Lecture 10.1      - On LMS 
    * Lecture 10.2 pt1  - [Video](https://youtu.be/Q78A2M226z4)
    * Lecture 10.2 pt2  - [Video](https://youtu.be/i1wi9DhC9Jc)
