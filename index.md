@@ -72,7 +72,7 @@ Lectures
 
 ### Week 6 - Module 5\. Analyzing Data: Linear Regression
 
-Lecture Notes: [Part 1 - .Rmd File](./05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](./05_regression_part2) 
+Lecture Notes: [Part 1 - .Rmd File](./05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](./05_regression_part2.Rmd) 
  
 Lectures
   * Lecture 5.1       - On LMS 
