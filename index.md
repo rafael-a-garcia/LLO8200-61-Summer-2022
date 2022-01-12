@@ -11,7 +11,7 @@ You are responsible for reviewing and ensuring you are following the schedule an
 
  
 [Schedule - Updated 01-12-2022](./Garcia_LLO8200_schedule_spring2022_v1.pdf)  
-[Syllabus - Updated XX-XX-2022](./)
+[Syllabus - Updated 01-12-2022](./Garcia_LLO8200_syllabus_spring2022_v1.pdf)
 
 If you want to set up email alerts for updates/additions to this site, you can use the free version of a third-party program: [Distill](https://distill.io/). The free version will check for updates every six hours and send you alerts. Note: this is a platform that is not owned by Vanderbilt or me and you should review their data privacy and security to ensure you are comfortable with their practices.
 
@@ -22,7 +22,7 @@ If you want to set up email alerts for updates/additions to this site, you can u
 ***To access lecture notes and/or data sets use ctrl+click on a mac or right click on a pc, then click "save link as" and save to the class directory on your computer.***
 
 
-### 0. R and R-studio Bootcamp Materials
+### Week 0 - Module 0. R and R-studio Bootcamp Materials
 
 These materials are identical to those used my Professor Hartigan during the *R Bootcamp* that took place on 01-06-2022
 
@@ -31,127 +31,67 @@ Lecture Notes: [.Rmd File](./00_Getting Started.Rmd), [Knitted HTML](./00_Gettin
 R Setup Slide Deck [PowerPoint](./Intro to R_final.pptx) - Includes good information on R/Rstudio structure and some troubleshooting tips.
 
 
-### 1\. Welcome to Data Science: Tools of the Trade
+### Week 1 - Module 1\. Welcome to Data Science: Tools of the Trade
 
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat_data.Rmd) 
-  * Answers to Lecture Qs: [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat_data-Qs.pdf)
-
-Lectures
-  * Please watch async on LMS for this week. 
-
-### 4\. Getting Data: Flat Files and “Tidy Data” 
-
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat_data.Rmd) 
-  * Answers to Lecture Qs: [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat_data-Qs.pdf)
+Lecture Notes: [.Rmd File](./01_Introduction.Rmd) 
 
 Lectures
   * Please watch async on LMS for this week. 
 
-In Class Work (Updated 9-20-21): [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat-data-inclass.Rmd)
-  * [Rmd with code for the nces import](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/04-flat-data-inclass_coded.Rmd)
+### Week 2 - Module 4\. Getting Data: Flat Files and “Tidy Data” 
 
-### 7\. Getting Data: Web Sources
+Lecture Notes: [.Rmd File](./04_flatdata_inclass.Rmd) 
 
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/07-webscraping.Rmd) and  [Data Set Education (if needed)](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/educ_vars.Rdata)  and  [Data Set Income (if needed)](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/income_vars.Rdata)  
-  * Answers to Lecture Qs: [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/07-webscraping-Qs.Rmd)
+Lectures
+  * Please watch async on LMS for this week. 
 
+### Week 3 - Module 7\. Getting Data: Web Sources
+
+Lecture Notes: [.Rmd File](./07_webscraping_updated.Rmd) 
+ 
 Lectures
  * Lecture 7.1-7.3 - On LMS
  * Lecture 7.4 - [Video](https://www.youtube.com/watch?v=NHbs55PTb-g)
  * Lecture 7.5 - On LMS
 
-In Class Work: Updated 10-20-21 [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/07-webscraping-inclass(workedout).Rmd) and [PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/07-webscraping-inclass-workedout-.pdf)
- 
 
+### Week 4 - Module 2\. Analyzing Data: Conditional Means
 
-
-
-
-
-#############################################################################
-
-
-
-
-### 2\. Analyzing Data: Conditional Means
-
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/02-conditional-means.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/sc_debt.Rds) 
+Lecture Notes: [.Rmd File](./02_Conditional Means_inclass.Rmd) 
 
 Lectures
  * See LMS
 
-In Class Work: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/02-conditional-means-inclass.Rmd) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/caschool.rdata) 
 
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/02-assignment.Rmd) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/sc_debt.Rdata)
-  * Assignment Key [R Markdown](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/02-assignment-key.Rmd) and [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/02-assignment-key.pdf)
+### Week 5 - Module 3\. Presenting Data: Descriptive Plots
 
-### 3\. Presenting Data: Descriptive Plots
-
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/03-plot_means.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/attrition.Rdata) 
-  * Answers to Lecture Qs: [Knitted PDFs](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/03-plot_means-Qs.pdf)
+Lecture Notes: [.Rmd File](./03_DescriptivePlots_inclass.Rmd) 
 
 Lectures
   * Please watch async on LMS for this week. 
 
-In Class Work: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/03-plot-means-inclass.Rmd) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/sc_debt.Rds)
+### Week 6 - Module 5\. Analyzing Data: Linear Regression
 
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/03-assignment.Rmd) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/sc_debt.Rds)
- * Assignment Key [R Markdown](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/03-assignment-key.Rmd) and [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/03-assignment-key.pdf)
-
-### 5\. Analyzing Data: Linear Regression
-
-#### Part 1
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-1.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/area_data.Rds) 
+Lecture Notes: [Part 1 - .Rmd File](./05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](./05_regression_part2) 
  
 Lectures
   * Lecture 5.1       - On LMS 
   * Lecture 5.2       - [Video](https://youtu.be/8P5CLj5Vy70)
   * Lecture 5.3 & 5.4 - [Video](https://youtu.be/6s5__DICHDg)
+  * Lecture 5.4a      - [Video](https://www.youtube.com/watch?v=llfHYO_MujY)
+  * Lecture 5.4b      - [Video](https://www.youtube.com/watch?v=hm33VbjQZMY)
+  * Lecture 5.5       - On LMS 
 
-In Class Work: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-inclass-1.Rmd)
+### Week 7 - Module 6\. Presenting Data: Scatterplots
 
-
-#### Part 2
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-2.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/area_data.Rds) 
-
-Lectures
- * Lecture 5.4a - [Video](https://www.youtube.com/watch?v=llfHYO_MujY)
- * Lecture 5.4b - [Video](https://www.youtube.com/watch?v=hm33VbjQZMY)
- * Lecture 5.5  - On LMS 
-
-In Class Work (updated 10-4-21): [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-inclass-2.Rmd)
- * Worked Out In Class [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-inclass-2(WorkedOut).Rmd) and [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-regression-inclass-2-WorkedOut.pdf)
- * Workflow Chart [PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/WorkflowChart.pdf)
- * Video Explanation [Video](https://youtu.be/fo-X0pOzERM)
-
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/05-assignment.Rmd) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/area_data.Rds)
-  * Assignment Key [R Markdown](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-assignment-key.Rmd) and [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/05-assignment-key.pdf)
-
-### 6\. Presenting Data: Scatterplots
-
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-scatterplots.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/els.Rdata)  
-  * Answers to Lecture Qs: [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-scatterplots_Qs.pdf)
+Lecture Notes: [.Rmd File](./06_scatterplots_inclass.Rmd) 
 
 Lectures
   * Please watch async on LMS for this week. 
 
-In Class Work: Updated 10-12-21 [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-scatterplots-inclass_marked.Rmd) and [PDF File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-scatterplots-inclass_marked.pdf) and
-[Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/cex.RData) 
+### Week 8 - Module 8\. Analyzing Data: Classification Part 1
 
-
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/06-assignment.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/els.Rdata) 
- * Assignment Key [R Markdown](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-assignment-key.Rmd) and [Knitted html](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/06-assignment-key.html)
-
-
-### 8\. Analyzing Data: Classification
-
-#### Part 1
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/08-classification.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/za.RData) 
+Lecture Notes: [.Rmd File](./08_classification_inclass.Rmd) 
  
 Lectures
   * Lecture 8.1       - On LMS 
@@ -159,84 +99,105 @@ Lectures
   * Lecture 8.4       - On LMS 
   * Lecture 8.5       - [Video](https://youtu.be/KbmEJkslBeE)
 
-#### Part 2
+### Week 9 - Module 8\. Analyzing Data: Classification Part 2
+
+Lecture Notes: Same as previous week starting on line 259
+
 Lectures
  * Lecture 8.6 - [Video](https://youtu.be/IhCJOZJv_O8)
 
-In Class Work (Updated 11-02-21)[.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/08-classification-inclass-worked2.Rmd) and [Knitted PDF](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/08-classification-inclass-worked2.pdf) and [YouTube Explanation](https://youtu.be/2Nj3JcxrXAA)
+### Week 10 - Module 9\. Presenting Data: Plots and Tables for Classification
 
-
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/08-assignment.Rmd) 
-  * Assignment Key [R Markdown](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/08-assignment-key.Rmd) and [Knitted PDF](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/08-assignment-key.pdf)
-
-### 9\. Presenting Data: Plots and Tables for Classification
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/09-plots_classification.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/za.RData)  
+Lecture Notes: [.Rmd File](./09_plots_classification_inclass.Rmd) 
 
 Lectures
   * Please watch async on LMS for this week. 
-
-In Class Work: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/09-plots_classification-inclass.Rmd)
-
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/09-assignment.Rmd)
- * Assignment Key [R Markdown](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/09-assignment-key.Rmd) and [Knitted html](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/09-assignment-key.pdf)
  
-### 10\. Cross Validation
-#### Part 1
-Lecture Notes: [.Rmd File](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/10-cross_validation.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/pd.Rdata) 
+### Week 11 - Module 10\. Cross Validation
+
+Lecture Notes: [.Rmd File](./10m_cross_validation_updated.Rmd) 
  
 Lectures
   * Lecture 10.1      - On LMS 
   * Lecture 10.2 pt1  - [Video](https://youtu.be/Q78A2M226z4)
   * Lecture 10.2 pt2  - [Video](https://youtu.be/i1wi9DhC9Jc)
   * Lecture 10.3      - [Video](https://youtu.be/pdikKDWiLY8)
-
-#### Part 2
-Lectures
   * Lecture 10.4      - [Video](https://youtu.be/hfZ_Jcz99mk)
   * Lecture 10.5      - [Video](https://youtu.be/B1JpLvCXhUQ)
   * Lecture 10.6      - On LMS
 
-In Class Work: (WiP) 
+### Week 12 - In Class Presentations
 
-Assignment: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/10-assignment.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/pd.Rdata) 
-  * Assignment Key (Forthcoming) [R Markdown](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/10-assignment-key.Rmd) and [Knitted PDF](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/10-assignment-key.pdf)
-### Misc\. 
-Lecture Notes: [PDF](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/10-assignment.Rmd) and  [Data Set](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Fin.pdf) 
+### Week 13 - In Class Presentations Continued
 
-Lectures: (All optional)
- * Lecture 12.1      - On LMS
- * Lecture 12.7      - On LMS
- * Lecture 14.1      - On LMS
- * Lecture 14.6      - On LMS
 
-Assignment: No Assignment (Rejoice!)
+### Datasets for the Semester (we may not use all of these)
+* [Area dataset - ACS 2019](./area_data.Rds)
+* [Attrition dataset](./attrition.Rdata)
+* [College "SC" dataset](./college.Rdata)
+* [College DEBT dataset](./sc_debt.Rdata)
+* [Census Education variables (if needed)](./educ_vars.Rdata)
+* [ELS full dataset](./els.Rdata)
+* [ELS testing dataset](./els_test.Rdata)
+* [ELS training dataset](./els_train.Rdata)
+* [Free excel dataset](./free.xls)
+* [FRL dataset](./frl.Rdata)
+* [HSB csv dataset](./hsbdata.csv)
+* [Census Income variables (if needed)](./income_vars.Rdata)
+* [Lemons (car = bad buy) dataset](./lemondata.csv)
+* [PD dataset](./pd.Rdata)
+* [SF cluster dataset](./sf_cluster.RData)
+* [SF complete dataset](./sf_complete.RData)
+* [SFO dataset](./sfo.RData)
+* [Za full dataset](./za.RData)
 
-### Final Project Assignments and Due Dates
+### Assignments
+Each assignment (problem set) should be uploaded to the LMS _before_ we meet for live session on the given due date. All assignment submissions must include two files to receive credit:
+1. .Rmd code file.
+2. "Knit" assignment file. The knit file can be in pdf or html (pdf is preferred). 
 
-Rubric [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-final_product_rubric.pdf)
+Note that you must upload BOTH files BEFORE you hit "submit" in the LMS; if you try to submit them one at a time, it will only allow you to upload one. Also, you are responsible for reviewing the files before uploading (check formatting, output, etc.). I will not accept submissions via email (unless there are extenuating circumstances). **There will be a penalty for submissions not meeting these requirements.**
 
-Available Datasets [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-available_datasets.pdf) 
+All assignments are graded on a 100-point scale. Corrections can be submitted for any assignment and you can earn up to half of the deducted points back. You have one week from the time you receive feedback on the assignment to submit corrections.
 
-Progress Report 1 - Due Oct 11 [Instructions as .Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-progress-report-01.Rmd)
+| File(s)      | Due Date          |
+|:-------------|:------------------|
+| [Assignment 1 placeholder] | 02/14/22 |
+| [Assignment 2 placeholder] | 02/28/22 |
+| [Assignment 3 placeholder] | 03/21/22 |
+| [Assignment 4 placeholder] | 04/04/22 |
+| [Assignment 5 placeholder] | 04/25/22 |
 
-Progress Report 2 - Due Oct ~~25~~27 [Instructions as .Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-progress-report-02.Rmd)
+### Final Project Materials
+* [Final Project Expectations and Rubrics placeholder] - both final products due 05/02/22
+* [Progress Report 1 Instructions placeholder] - due 02/21/22
+* [Progress Report 2 Instructions placeholder] - due 03/28/22
+* [Progress Report 3 Instructions placeholder] - due 04/11/22
 
-Progress Report 3 - Due Nov 08 [Instructions as .Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-progress-report-03.Rmd)
+#### Final Project Examples
+Note: these are all strong examples; but that doesn't mean they are all perfect. You should reference the supplied rubrics to ensure you're meeting all expectations. 
+##### Presentations
+* [Broadband Speeds in Louisiana](./Broadband Speeds in Louisiana_presentation.pdf)
+* [Exploring Institutional Placements in TX Child Welfare System](./Exploring Institutional Placements in TX Child Welfare System_presentation.pdf)
+* [Teacher Attrition in DC](./Teacher Attrition in DC_presentation.pdf)
 
-Progress Report 4 - Due Dec 06 ~~Nov 29~~ [Instructions as .Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/Final-Project-progress-report-04.Rmd)
+##### Reports (with associated .Rmd files)
+* [Broadband Speeds in Louisiana](./Broadband Speeds in Louisiana_report.pdf), [Associated .Rmd file](./Broadband Speeds in Louisiana.Rmd)
+* [Exploring Institutional Placements in TX Child Welfare System](./Exploring Institutional Placements in TX Child Welfare System_report.pdf), [Associated .Rmd file](./Exploring Institutional Placements in TX Child Welfare System.Rmd)
+* [Predicting Time on Death Row in Florida](./Predicting Time on Death Row in Florida_report.pdf), [Associated .Rmd file](./Predicting Time on Death Row in Florida.Rmd)
+* [Predictors of Student Vaping in TN](./Final-Project---Example.pdf), [Associated .Rmd file](./Final Project - Example.Rmd)
 
-Final Report - Due Dec 14 
+### Additional Resources
+Because our syllabus differs slightly from what's in the LMS, the gradebook calculations won't be entirely accurate. If you'd like to keep track of your current average, here is a tool to help you do so. This properly weights the various course elements (note that you'll need to put in some "estimated" grades to populate an average). 
+* [Data Science Average Calculator](./Student Average Calculator.xlsx)
 
-Examples
- * Example - Basic [Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/final_project_example_report.Rmd) and [Knitted](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/final_project_example_report.pdf)
- * Example - Exemplary [Rmd file](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/final_project_melody.Rmd) and [Knitted](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/final_project_melody.pdf)
 
 ### Helpful references and Cheatsheets
 
-Quick Reference for R-Markdown files [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/rmarkdown-reference.pdf)
+Quick Reference for R-Markdown files [at this link](./rmarkdown-reference.pdf)
 
-Cheatsheet for R-Markdown files [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/rmarkdown-cheatsheet.pdf)
+Cheatsheet for R-Markdown files [at this link](./rmarkdown-cheatsheet.pdf)
 
-Cheatsheet for ggplot2 [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/ggplot2-cheatsheet.pdf)
+Cheatsheet for ggplot2 [at this link](./ggplot2-cheatsheet.pdf)
 
-Cheatsheet for color palettes in R [at this link](https://github.com/rafael-a-garcia/LLO8200-61-Spring2022/raw/main/colorPaletteCheatsheet.pdf)
+Cheatsheet for color palettes in R [at this link](./colorPaletteCheatsheet.pdf)
