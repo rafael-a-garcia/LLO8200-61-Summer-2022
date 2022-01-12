@@ -25,24 +25,24 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 #### Week 0 - Module 0. R and R-studio Bootcamp Materials
 
- These materials are identical to those used my Professor Hartigan during the *R Bootcamp* that took place on 01-06-2022
+ * These materials are identical to those used my Professor Hartigan during the *R Bootcamp* that took place on 01-06-2022
 
- Lecture Notes: [.Rmd File](./00_Getting Started.Rmd), [Knitted HTML](./00_Getting-Started.html)
+ * Lecture Notes: [.Rmd File](./00_Getting Started.Rmd), [Knitted HTML](./00_Getting-Started.html)
 
- R Setup Slide Deck [PowerPoint](./Intro to R_final.pptx) - Includes good information on R/Rstudio structure and some troubleshooting tips.
+ * R Setup Slide Deck [PowerPoint](./Intro to R_final.pptx) - Includes good information on R/Rstudio structure and some troubleshooting tips.
 
 #### Week 1 - Module 1\. Welcome to Data Science: Tools of the Trade
 
- Lecture Notes: [.Rmd File](./01_Introduction.Rmd) 
+ * Lecture Notes: [.Rmd File](./01_Introduction.Rmd) 
 
- Lectures
+ * Lectures
    * Please watch async on LMS for this week. 
 
 #### Week 2 - Module 4\. Getting Data: Flat Files and “Tidy Data” 
 
- Lecture Notes: [.Rmd File](./04_flatdata_inclass.Rmd) 
+ * Lecture Notes: [.Rmd File](./04_flatdata_inclass.Rmd) 
 
- Lectures
+ * Lectures
    * Please watch async on LMS for this week. 
 
 #### Week 3 - Module 7\. Getting Data: Web Sources
