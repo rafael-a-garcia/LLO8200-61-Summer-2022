@@ -10,7 +10,7 @@ This is the course website for Professor Garcia's sections of LLO 8200, Introduc
 You are responsible for reviewing and ensuring you are following the schedule and abiding by the policies outlined in the syllabus. The most up-to-date schedule and syllabus can always be found here and I will update the date when changes are made:  
 <div align="center">
  
-[Schedule - Updated XX-XX-2022](./)  
+[Schedule - Updated XX-XX-2022](./Garcia_LLO8200_schedule_spring2022_v1.pdf)  
 [Syllabus - Updated XX-XX-2022](./). </div>
 
 If you want to set up email alerts for updates/additions to this site, you can use the free version of a third-party program: [Distill](https://distill.io/). The free version will check for updates every six hours and send you alerts. Note: this is a platform that is not owned by Vanderbilt or me and you should review their data privacy and security to ensure you are comfortable with their practices.
