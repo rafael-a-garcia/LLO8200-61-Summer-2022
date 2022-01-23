@@ -191,7 +191,7 @@ Because our syllabus differs slightly from what's in the LMS, the gradebook calc
 
 The YAML header conundrum... When you download an .Rmd file from this site, the YAML header will be removed (for some reason). Here is a sample header that you can reference when adding the header at the top of your .Rmd file. Remember, your header MUST begin on line 1 of your .Rmd file and the formatting must stay consistent in order for it to work (e.g., must begin with three dashes and end with three dashes).       
 
-![YAML header](./YAML_header.JPG)
+![YAML header](./YAML_header.jpg)
 
 ### Helpful references and Cheatsheets
 
