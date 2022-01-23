@@ -160,7 +160,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 
 | File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1 placeholder] | 02/14/22 |
+| [Problem Set 1 .Rmd File](./01_ProblemSet_Mods1_4_7_starter.Rmd); [Problem Set 1 pdf](./01_ProblemSet_Mods1_4_7_starter.pdf) | 02/14/22 |
 | [Assignment 2 placeholder] | 02/28/22 |
 | [Assignment 3 placeholder] | 03/21/22 |
 | [Assignment 4 placeholder] | 04/04/22 |
@@ -189,6 +189,9 @@ Note: these are all strong examples; but that doesn't mean they are all perfect.
 Because our syllabus differs slightly from what's in the LMS, the gradebook calculations won't be entirely accurate. If you'd like to keep track of your current average, here is a tool to help you do so. This properly weights the various course elements (note that you'll need to put in some "estimated" grades to populate an average). 
 * [Data Science Average Calculator](./Student Average Calculator.xlsx)
 
+The YAML header conundrum... When you download an .Rmd file from this site, the YAML header will be removed (for some reason). Here is a sample header that you can reference when adding the header at the top of your .Rmd file. Remember, your header MUST begin on line 1 of your .Rmd file and the formatting must stay consistent in order for it to work (e.g., must begin with three dashes and end with three dashes).       
+
+![YAML header](./YAML_header.JPG)
 
 ### Helpful references and Cheatsheets
 
