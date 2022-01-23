@@ -1,3 +1,4 @@
+DELETE THIS LINE
 ---
 title: "Problem Set 1: Modules 1, 4, & 7"
 author: "YOUR NAME HERE"
