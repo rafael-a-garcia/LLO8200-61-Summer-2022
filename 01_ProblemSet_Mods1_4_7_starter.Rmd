@@ -1,3 +1,11 @@
+---
+title: "Problem Set 1: Modules 1, 4, & 7"
+author: "YOUR NAME HERE"
+date: "due INSERT DATE HERE"
+output:
+    pdf_document: default
+
+---
 ***Structural stuff:***      
 1. Be sure to change the "author" above to your name. Also insert the due date for this term/assignment.    
 2. Save your .Rmd file as LastName_FirstName.Rmd (do this before you knit).    
