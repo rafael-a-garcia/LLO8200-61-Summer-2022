@@ -160,7 +160,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 
 | File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Problem Set 1 .Rmd File](./01_ProblemSet_Mods1_4_7_starter.Rmd?raw=1); [Problem Set 1 pdf](./01_ProblemSet_Mods1_4_7_starter.pdf) | 02/14/22 |
+| [Problem Set 1 .Rmd File](./01_ProblemSet_Mods1_4_7_starter.Rmd); [Problem Set 1 pdf](./01_ProblemSet_Mods1_4_7_starter.pdf) | 02/14/22 |
 | [Assignment 2 placeholder] | 02/28/22 |
 | [Assignment 3 placeholder] | 03/21/22 |
 | [Assignment 4 placeholder] | 04/04/22 |
