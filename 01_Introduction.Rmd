@@ -1,3 +1,12 @@
+---
+title: "Data Science - Week 1: Tools of the Trade"
+subtitle: "Lecture Notes"
+author: "A. Person"
+output:
+    html_document: 
+        theme: cerulean
+---
+
 # Welcome to Data Science! {#intro}
 
 Today, we'll be working on getting you set up with the tools you will need for this class. Once you are set up, we'll do what we're here to do: analyze data!
@@ -69,7 +78,7 @@ of these things are demonstrated below.
 
 ```{r load_data}
 ## Load in the data - IF the datafile is saved in the same place as my .Rmd file, this works
-load("college.Rdata")
+load("sc_debt.Rdata")
 
 # IF the data is saved elsewhere, I need to tell R where it is:
 #setwd("C:/Users/lacey/Google Drive/Teaching/Vanderbilt/LLO 8200 - Data Science/Async .Rmd files")
@@ -114,8 +123,14 @@ We can look at the whole dataset using View.
 ## What does this data look like? Look at the first few rows, first few variables
 sc
 
+#what if I wanted to look at the first 20 rows? we can use the "head" function
+head(sc, 20)
+
+#what if I want to see the last 20 rows? there's a "tail" function for that
+tail(sc, 20)
+
 ## This is commented as you might not always want to run it, particularly when you're knitting your file. Delete the "#" sign below in order to run the command. 
-#View(sc)
+View(sc)
 ```
 
 *Filter, Select, Arrange*
@@ -190,4 +205,4 @@ sc%>%
   filter(instnm=="University of North Carolina at Chapel Hill")%>%
   select(instnm, adm_rate) 
 ```
-
+Note: The answer in the async is incorrect. The right answer for the admission rate @ UNC Chapel Hill is: 0.3396. 
