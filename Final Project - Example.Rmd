@@ -1,3 +1,10 @@
+---
+title: "Predictors of Student Vaping in Tennessee"
+author: "Lacey Hartigan"
+output:
+  pdf_document: default
+---
+
 ```{r, include=F}
 library(gtsummary)
 library(labelled)
@@ -479,4 +486,3 @@ Tennessee Department of Mental Health and Substance Abuse Services (TDMHSAS) (20
 Wills, T. A., McNamara, G., Vaccaro, D., & Hirky, A. E. (1996). Escalated substance use: A longitudinal grouping analysis from early to middle adolescence. Journal of Abnormal Psychology, 105, 166–190. https://doi.org/10.1037/0021-843x.105.2.166
 
 Zimmerman, G. M. & Vasquez, B. E. (2011). Decomposing the peer effect on adolescence substance use: Mediation, nonlinearity, and differential nonlinearity. Criminoloy, 49(4): 1235-1274.
-
