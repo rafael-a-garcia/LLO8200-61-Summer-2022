@@ -1,3 +1,9 @@
+---
+title: "Web Scraping - LMS Module 7"
+output:
+  html_document: default
+---
+
 ## Introduction
 
 Many large web sites host a huge amount of information. This information is encoded and delivered on demand to the user within a web page, which is really just a markup language that a browser can understand. We can take this data and analyze it using R, via a variety of different means. Today we'll cover scraping web tables and interacting via Automated Programming Interfaces.
@@ -29,7 +35,7 @@ We will use multiple new libraries today. Among the ones you'll need:
 * `gridExtra` to combine graphs
 
 ```{r}
-rm(list=ls())
+rm(list=ls()) #this clears the global environment
 
 library(tidyverse)
 library(rvest)
@@ -123,6 +129,43 @@ g1
 ```
 
 _Quick Exercise_ Repeat the above analysis for women's world record progression.
+```{r}
+# Get the page, pull the tables via html_table
+marathonwomen <- read_html(marathon_wiki)%>%
+  html_table(fill=TRUE)
+
+#Women's is the second table
+marathonwomen<-tibble::as_tibble(data.frame(marathonwomen[[2]]))
+
+#Convert marathon time to seconds (our goal is to calculate meters/second)
+marathonwomen<-marathonwomen%>%
+  mutate(Time2=hms(as.character(Time)))%>%
+  mutate(Time2=period_to_seconds(Time2))
+
+#Marathons are 42,200 meters long
+marathonwomen$speed<-(42200)/marathonwomen$Time2
+
+#Get dates in a usable format usin lubridate::mdy
+marathonwomen$date<-mdy(marathonwomen$Date)
+
+#find median of women's marathon speed
+median(marathonwomen$speed, na.rm=T)
+
+#I don't like that it's dropping Marie-Louise's time so I'm going to clean this up and recalculate
+marathonwomen$Time[which(marathonwomen$Name=="Marie-Louise Ledru")]<-gsub("xx","00",marathonwomen$Time)
+#the line of code above replaces the "xxs" in her time with 00
+
+#Now I will recalculate Time2
+marathonwomen<-marathonwomen%>%
+  mutate(Time2=hms(as.character(Time)))%>%
+  mutate(Time2=period_to_seconds(Time2))
+
+#recalc speed
+marathonwomen$speed<-(42200)/marathonwomen$Time2
+
+#find updated median including Marie-Louise
+median(marathonwomen$speed, na.rm=T)
+```
 
 
 
@@ -166,10 +209,20 @@ v18%>%
 
 You'll need to add the key you received from the Census bureau below. ONLY INSTALL YOUR API KEY ONE TIME! After you've installed it, re-comment out the code in the code chunk below. Pay attention to the alerts you get while installing, you may need to run one additional line of code. 
 ```{r}
-# Get your own key and insert that in for the XXXX below
+# I'm going to try to outline this step-by-step here.
+#1. Get your own key (using the link provided at the beginning of this .Rmd file) and insert that in for the XXXX in the code below that starts with acs_key. Make sure you keep the quotation marks and only replace the XXXX. Run this in your console, rather than in a code chunk. Remember to remove the # when you paste it into your console, before hitting "enter" to run it.
+
 #acs_key<-"XXXX"
 
+#2. Run the next code line (also run this in your console - remember to remove the #). 
+
 #census_api_key(acs_key, install=T)
+
+#3. R will HOPEFULLY give you this message after running the census_api_key code above: "Your API key has been stored in your .Renviron and can be accessed by Sys.getenv("CENSUS_API_KEY"). To use now, restart R or run `readRenviron("~/.Renviron")` 
+
+#4. Per R's instruction, you either need to restart R OR, you can run the code line below (again, in the console and, again, remove the # before running):
+
+#readRenviron("~/.Renviron")
 ```
 
 
