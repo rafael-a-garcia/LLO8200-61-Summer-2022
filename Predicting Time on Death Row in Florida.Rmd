@@ -1,3 +1,9 @@
+---
+title: "Predicting Time on Death Row in Florida"
+author: "Hayley Benedict, Jason Fatz, Chance Meyer, Marcus Quayle"
+output:
+  pdf_document: default
+---
 ```{r setup, include=FALSE}
 
 knitr::opts_chunk$set(echo = FALSE)
