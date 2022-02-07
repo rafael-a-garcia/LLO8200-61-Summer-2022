@@ -47,7 +47,7 @@ If you want to set up email alerts for updates/additions to this site, you can u
 
 #### Week 3 - Module 7\. Getting Data: Web Sources
 
- * Lecture Notes: [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/07_webscraping_updated.Rmd) 
+ * Lecture Notes (updated 2-6-2022): [.Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/07_webscraping_updated.Rmd) 
 
  * Lectures
   * Lecture 7.1-7.3 - On LMS
