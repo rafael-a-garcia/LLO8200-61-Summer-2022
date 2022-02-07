@@ -1,3 +1,11 @@
+---
+title: "LMS Module 4 - Working with Flat Data Files"
+subtitle: "Lecture Notes"
+output:
+    html_document: 
+        theme: cerulean
+---
+
 Flat data is data that is arranged with one case per row, with one column per variable-- more or less. It's stored in a variety of formats, with different conventions. Our goal is to get it into the most useful format for analysis: what's known as tidy data. 
 
 ```{r} 
