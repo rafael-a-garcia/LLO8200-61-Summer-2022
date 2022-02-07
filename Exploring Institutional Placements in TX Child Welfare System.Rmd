@@ -1,3 +1,11 @@
+---
+title: "Exploring Institutional Placements in the Texas Child Welfare System"
+author: "Valerie Law, Katie New, James Street"
+date: "12/08/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
 ```{r, include=F}
 rm(list=ls())
 ```
