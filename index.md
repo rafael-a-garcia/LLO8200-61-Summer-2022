@@ -167,7 +167,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 | [Assignment 5 placeholder] | 04/25/22 |
 
 ### Final Project Materials
-* [Final Project Expectations and Rubrics placeholder] - both final products due 05/02/22
+* Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due 05/02/22
 * [Progress Report 1 Instructions placeholder] - due 02/21/22
 * [Progress Report 2 Instructions placeholder] - due 03/28/22
 * [Progress Report 3 Instructions placeholder] - due 04/11/22
