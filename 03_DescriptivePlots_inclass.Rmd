@@ -1,5 +1,5 @@
 ---
-title: "Week 3 - Presenting Data: Descriptive Plots"
+title: "Module 3 - Presenting Data: Descriptive Plots"
 output:
     html_document: 
         theme: cerulean
