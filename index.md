@@ -174,6 +174,9 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 
 #### Final Project Examples
 Note: these are all strong examples; but that doesn't mean they are all perfect. You should reference the supplied rubrics to ensure you're meeting all expectations. 
+##### Sample Datasets
+* [Sample Datasets that can be used for Final Project](./Final-Project-available_datasets.pdf)
+* 
 ##### Presentations
 * [Broadband Speeds in Louisiana](./Broadband Speeds in Louisiana_presentation.pdf)
 * [Exploring Institutional Placements in TX Child Welfare System](./Exploring Institutional Placements in TX Child Welfare System_presentation.pdf)
