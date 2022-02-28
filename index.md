@@ -71,6 +71,7 @@ If you want to set up email alerts for updates/additions to this site, you can u
 #### Week 6 - Module 5\. Analyzing Data: Linear Regression
 
  * Lecture Notes: [Part 1 - .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/05_regression_updated_inclass.Rmd) and  [Part 2 - .RMD File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/05_regression_part2.Rmd) 
+   * Workflow Chart [PDF](./Workflow Chart.pdf)   
 
  * Lectures
    * Lecture 5.1       - On LMS 
