@@ -25,6 +25,7 @@ library(plotly)
 
 ```{r}
 ad<-readRDS("area_data.Rds")
+
 ad
 ```
 
