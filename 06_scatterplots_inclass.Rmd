@@ -1,3 +1,9 @@
+---
+title: "Using Scatterplots to Show Data"
+output:
+  pdf_document: default
+---
+
 # Scatterplots
 
 Scatterplots are the best way to present data that have a continuous response variable. When creating scatterplots, the idea is to show ALL of the data, and then show how your model is summarizing the relationships in that data. 
