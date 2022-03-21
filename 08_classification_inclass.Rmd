@@ -1,3 +1,8 @@
+---
+title: "Classification - LMS Module 8"
+output: html_document
+---
+
 Classification is the process of predicting group membership. Understanding which individuals are likely to be members of which groups is a key task for data scientists. For instance, most recommendation engines that are at the heart of consumer web sites are based on classification algorithms, predicting which consumers are likely to purchase which products. 
 
 ```{r setup, include=FALSE}
@@ -351,7 +356,6 @@ table(za_test$got_pizza_f, predictions$.pred_class2) #examine new confusion matr
 #specificity
 317/(388+317)
 ```
-
 
 
 
