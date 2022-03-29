@@ -164,7 +164,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 | [Problem Set 1 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/01_ProblemSet_Mods1_4_7_starter.Rmd); [Problem Set 1 pdf](./01_ProblemSet_Mods1_4_7_starter.pdf) | 02/14/22 |
 | [Problem Set 2 .Rmd File (updated with points 02/21/22](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/02_ProblemSet_Mods2_3_starter_update.Rmd) | 02/28/22 |
 | [Problem Set 3 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/03_ProblemSet_Mods5_6_starter.Rmd) | 03/21/22 |
-| [Problem Set 4 .Rmd File (updated 3/24/22)](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/04_ProblemSet_Mod8_starter.Rmd) | 04/04/22 |
+| [Problem Set 4 .Rmd File (updated 3/29/22)](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/04_ProblemSet_Mod8_starter.Rmd) | 04/04/22 |
 | [Assignment 5 placeholder] | 04/25/22 |
 
 ### Final Project Materials
