@@ -124,8 +124,7 @@ Research Topic: For this exercise, we are taking on the role of advisor at a loc
 
 
 
-9b. Provide a sentence interpreting the slope of `Vehicle Year` (remember, you can exponentiate your estimate to obtain an odds ratio before interpreting). (2pts)
-
+9b. Provide a sentence interpreting the slope of `VehicleAge` (remember, you can exponentiate your estimate to obtain an odds ratio before interpreting). (2pts)
 
 
 
