@@ -171,7 +171,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 * Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due 05/02/22
 * [Progress Report 1 Instructions](./Progress Report 1 - Instructions.pdf) - due ~~02/21/22~~ 02/28/22
 * [Progress Report 2 Instructions](./Progress Report 2 - Instructions.pdf) - due 03/28/22
-* [Progress Report 3 Instructions placeholder] - due 04/11/22
+* [Progress Report 3 Instructions](./Progress Report 3 - Instructions.pdf) - due 04/11/22
 
 #### Final Project Examples
 Note: these are all strong examples; but that doesn't mean they are all perfect. You should reference the supplied rubrics to ensure you're meeting all expectations. 
