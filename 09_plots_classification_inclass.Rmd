@@ -1,3 +1,9 @@
+---
+title: "Plots for Classifiers - LMS Module 9"
+output:
+  pdf_document: default
+---
+
 Plots are rarely used in the context of classification, but they can aid understanding. I'll show three ways of thinking about plots for classification: bar graphs, heatmaps, and plotting the probability predictions from a logit model.
 
 We'll continue working with the random acts of pizza dataset. 
