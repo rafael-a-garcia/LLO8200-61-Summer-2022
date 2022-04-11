@@ -1,3 +1,9 @@
+---
+title: "Multiple Models"
+author: "Will Doyle w. additions from Lacey Hartigan"
+output: html_document
+---
+
 ## Introduction
 
 The essence of prediction is discovering the extent to which our models can predict outcomes for data that does not come from our sample. Many times this process is temporal. We fit a model to data from one time period, then take predictors from a subsequent time period to come up with a prediction in the future. For instance, we might use data on team performance to predict the likely winners and losers for upcoming soccer games. 
@@ -26,7 +32,6 @@ Next we load the quickfacts data, which contains county-by-county information. W
 
 ```{r}
 load("pd.Rdata")
-
 pd<-pd%>%
   select(median_home_val, median_hh_inc, coll_grad_pc, homeown_rate, per_capita_inc, pop65p, retail_percap)%>%
   mutate_all(.funs=list(as.numeric)) ## change all to numeric
@@ -166,7 +171,6 @@ lasso_rec <- recipe(lasso_formula, data = pd) %>%
 ```{r}
 penalty_spec<-.1
 mixture_spec<-1
-
 lasso_fit<- 
   linear_reg(penalty=penalty_spec,
              mixture=mixture_spec) %>% 
@@ -220,7 +224,6 @@ lm_mc_results%>%
 
 ```{r}
 load("za.RData")
-
 za<-za%>%
   drop_na()%>%
   mutate(got_pizza_f=fct_relevel(got_pizza_f,"Yes","No"))%>%
@@ -322,7 +325,6 @@ lasso_logit_fit<-
              penalty=tune(),
              mixture=tune()) %>% 
   set_engine("glmnet")
-
 ## NB: tuning shows very low penalty, very high mixture
 ```
 
