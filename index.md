@@ -165,7 +165,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 | [Problem Set 2 .Rmd File (updated with points 02/21/22](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/02_ProblemSet_Mods2_3_starter_update.Rmd) | 02/28/22 |
 | [Problem Set 3 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/03_ProblemSet_Mods5_6_starter.Rmd) | 03/21/22 |
 | [Problem Set 4 .Rmd File (updated 3/29/22)](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/04_ProblemSet_Mod8_starter.Rmd) | 04/04/22 |
-| [Assignment 5 placeholder] | 04/25/22 |
+| [Problem Set 5 .Rmd File (optional)](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/05_ProblemSet_Mod9and10_starter.Rmd) | 04/25/22 |
 
 ### Final Project Materials
 * Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due 05/02/22
