@@ -169,6 +169,7 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 
 ### Final Project Materials
 * Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due 05/02/22
+  * Tips to help with Final Report Formatting [Knitted PDF](./TipsToHelpWithFinalReport.pdf) and [Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Spring2022/main/TipsToHelpWithFinalReport.Rmd)
 * [Progress Report 1 Instructions](./Progress Report 1 - Instructions.pdf) - due ~~02/21/22~~ 02/28/22
 * [Progress Report 2 Instructions](./Progress Report 2 - Instructions.pdf) - due 03/28/22
 * [Progress Report 3 Instructions](./Progress Report 3 - Instructions.pdf) - due 04/11/22
