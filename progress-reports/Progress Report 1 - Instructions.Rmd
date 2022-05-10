@@ -1,0 +1,19 @@
+---
+title: "Progress Report 1"
+author: "Group Member 1, Group Member 2, and Group Member 3"
+date: "MM/DD/YYY"
+output: html_document
+---
+
+Progress Report 1
+====================
+
+For this progress report, please include the following in an .Rmd file (__knit this to either html or pdf and submit the knit file__). Only ONE group member needs to submit this report. Please upload it to the LMS. :
+
+1. A list of group members (minimum of two, maximum of five - all you need to be in the same section). You can list the group members in the Author secton of your YAML header.
+2. A paragraph describing your potential research project. You can present one idea or multiple potential project ideas; but I want a paragraph for each idea that includes the following: 
+  a. Your main research question:
+    i. Remember - we are focused on PREDICTION for this class. Keep that in mind as you draft your question(s).
+  b. Why this is an interesting/relevant question? 
+  c. What sort of data you would need to answer this question? Do you have any ideas of appropriate datasets (Kaggle.com is a great resource; and of course - Google)?
+    i. If you have an idea of datasets, include some information on potential variables (DV/Outcome and IVs/predictors) from the dataset. 
