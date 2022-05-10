@@ -180,12 +180,10 @@ Note: these are all strong examples; but that doesn't mean they are all perfect.
 * [Sample Datasets that can be used for Final Project](./Final-Project-available_datasets.pdf)
 
 ##### Presentations
-* [Broadband Speeds in Louisiana](./final-project-examples/Broadband Speeds in Louisiana_presentation.pdf)
 * [Exploring Institutional Placements in TX Child Welfare System](./final-project-examples/Exploring Institutional Placements in TX Child Welfare System_presentation.pdf)
 * [Teacher Attrition in DC](./final-project-examples/Teacher Attrition in DC_presentation.pdf)
 
 ##### Reports (with associated .Rmd files)
-* [Broadband Speeds in Louisiana](./final-project-examples/Broadband Speeds in Louisiana_report.pdf), [Associated .Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/final-project-examples/Broadband Speeds in Louisiana.Rmd)
 * [Exploring Institutional Placements in TX Child Welfare System](./final-project-examples/Exploring Institutional Placements in TX Child Welfare System_report.pdf), [Associated .Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/final-project-examples/Exploring Institutional Placements in TX Child Welfare System.Rmd)
 * [Predicting Time on Death Row in Florida](./final-project-examples/Predicting Time on Death Row in Florida_report.pdf), [Associated .Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/final-project-examples/Predicting Time on Death Row in Florida.Rmd)
 * [Predictors of Student Vaping in TN](./final-project-examples/Final-Project---Example.pdf), [Associated .Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/final-project-examples/Final Project - Example.Rmd)
