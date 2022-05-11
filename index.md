@@ -10,8 +10,8 @@ This is the course website for Professor Garcia's sections of LLO 8200, Introduc
 You are responsible for reviewing and ensuring you are following the schedule and abiding by the policies outlined in the syllabus. The most up-to-date schedule and syllabus can always be found here and I will update the date when changes are made:  
 
  
-[Schedule - Updated 01-12-2022](./)  
-[Syllabus - Updated 01-12-2022](./)
+[Schedule - Updated 05-10-2022](./Garcia_LLO8200_schedule_summer_2022_v1.pdf)  
+[Syllabus - Updated 05-10-2022](./Garcia_LLO8200_syllabus_summer_2022_v1.pdf)
 
 If you want to set up email alerts for updates/additions to this site, you can use the free version of a third-party program: [Distill](https://distill.io/). The free version will check for updates every six hours and send you alerts. Note: this is a platform that is not owned by Vanderbilt or me and you should review their data privacy and security to ensure you are comfortable with their practices.
 
@@ -161,18 +161,18 @@ All assignments are graded on a 100-point scale. Corrections can be submitted fo
 
 | File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Problem Set 1 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/problem-sets/) Forthcoming| //22 |
-| [Problem Set 2 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/problem-sets/) Forthcoming| //22 |
-| [Problem Set 3 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/problem-sets/) Forthcoming| //22 |
-| [Problem Set 4 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/problem-sets/) Forthcoming| //22 |
-| [Problem Set 5 .Rmd File](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/problem-sets/) Forthcoming| //22 |
+| [Problem Set 1 .Rmd File](./) Forthcoming| 06/01/22 |
+| [Problem Set 2 .Rmd File](./) Forthcoming| 06/15/22 |
+| [Problem Set 3 .Rmd File](./) Forthcoming| 06/29/22 |
+| [Problem Set 4 .Rmd File](./) Forthcoming| 07/20/22 |
+| [Problem Set 5 .Rmd File](./) Forthcoming| 08/10/22 |
 
 ### Final Project Materials
-* Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due //22
+* Final Project [Expectations](./Expectations for final presentation and product 02-07-2022.pdf) and [Rubric](./Final Project Grader Report 02-07-2022.pdf) - both final products due 08/13/22
   * Tips to help with Final Report Formatting [Knitted PDF](./TipsToHelpWithFinalReport.pdf) and [Rmd file](https://raw.githubusercontent.com/rafael-a-garcia/LLO8200-61-Summer-2022/main/TipsToHelpWithFinalReport.Rmd)
-* [Progress Report 1 Instructions](./progress-reports/Progress Report 1 - Instructions.pdf) - due //22
-* [Progress Report 2 Instructions] Forthcoming - due //22
-* [Progress Report 3 Instructions] Forthcoming - due //22
+* [Progress Report 1 Instructions](./progress-reports/Progress Report 1 - Instructions.pdf) - due 06/08/22
+* [Progress Report 2 Instructions] (./) Forthcoming - due 07/06/22
+* [Progress Report 3 Instructions] (./) Forthcoming - due 07/27/22
 
 #### Final Project Examples
 Note: these are all strong examples; but that doesn't mean they are all perfect. You should reference the supplied rubrics to ensure you're meeting all expectations. 
